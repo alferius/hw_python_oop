@@ -128,7 +128,7 @@ def main(training)
 который вернет строку сообщения с данными о тренировке; эту строку нужно передать в функцию `print()`.
 
 **Для установки и запуска:**
-Клонировать репозиторий и перейти в него в командной строке: git clone https://github.com/alferius/homework_bot.git cd api_final_yatube
+Клонировать репозиторий и перейти в него в командной строке: git clone https://github.com/alferius/hw_python_oop.git cd hw_python_oop
 
 Cоздать и активировать виртуальное окружение: python3 -m venv env source env/bin/activate
 
